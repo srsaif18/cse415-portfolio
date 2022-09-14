@@ -997,7 +997,13 @@ textarea.input-field {
 
   .about .btn-secondary { margin-bottom: 0; }
 
+  /**
+  * EDUCATION AND EXPERIENCES 
+  */
 
+  #education {
+    align-items: flex-start;
+  }
 
   /**
    * CONTACT
@@ -1230,8 +1236,6 @@ textarea.input-field {
   }
 
   .about-banner { margin-bottom: 0; }
-
-
 
 
   /**
